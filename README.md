@@ -1,6 +1,12 @@
 ## Developments
 
-### Install RockDB dependencies
+### Install dependencies
+
+#### Poetry
+See the installation docs at https://python-poetry.org/docs/#installation
+
+#### RocksDB
+
 ```shell
 https://github.com/facebook/rocksdb/wiki/Building-on-Windows
 sudo apt install build-essential libsnappy-dev \
